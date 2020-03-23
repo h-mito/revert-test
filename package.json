@@ -1,0 +1,16 @@
+{
+  "name": "blog_revert",
+  "version": "1.0.0",
+  "description": "*** Revert のテスト ****",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com.nonbiz:h-mito/revert-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
